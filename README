@@ -1,0 +1,8 @@
+A simple Ruby script that creates a plist file from a directory of images or whatever.
+
+Example:
+./plistMaker /directory/of/images image_data.plist jpg
+
+This will generate a plist called "image_data.plist" containing keys for the jpg's in the directory.
+
+That's it. :) 
